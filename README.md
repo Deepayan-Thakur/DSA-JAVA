@@ -4,12 +4,12 @@ Welcome to the **DSA Repository**, where I will be uploading solutions, explanat
 
 ## 📑 Table of Contents
 
-- [📌 Introduction](#introduction)
-- [📚 Topics Covered](#topics-covered)
-- [🛠️ How to Use This Repository](#how-to-use-this-repository)
-- [📖 Resources](#resources)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
+- 📌 Introduction
+- 📚 Topics Covered
+- 🛠️ How to Use This Repository
+- 📖 Resources
+- 🤝 Contributing
+- 📜 License
 
 ## 📌 Introduction
 
