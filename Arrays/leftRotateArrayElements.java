@@ -20,8 +20,10 @@ public class leftRotateArrayElements{
 
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
+        System.out.println("Original Arrays : "+Arrays.toString(arr));
         leftRotate(arr, arr.length, 2);
-        System.out.println(Arrays.toString(arr));
+        System.out.println("Resulted Arrays : " + Arrays.toString(arr));
+        
     }
 
 }
