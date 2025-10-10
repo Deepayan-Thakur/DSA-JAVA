@@ -1,0 +1,15 @@
+package Recursion_Test;
+import java.util.*;
+
+public class sumOfDigits{
+    public static void main(String[] args) {
+        System.out.println(digitSum(1432));
+    }
+    
+    public static int digitSum(int num){
+        if(num == 0){
+            return 0;
+        }
+        return num % 10 + digitSum(num / 10);
+    }
+}
