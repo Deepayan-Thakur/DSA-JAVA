@@ -1,5 +1,4 @@
 package Recursion_Test;
-import java.util.*;
 
 public class sumOfDigits{
     public static void main(String[] args) {
