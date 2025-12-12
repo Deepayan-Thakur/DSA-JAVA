@@ -6,7 +6,23 @@ Before Proceding ahead check 👇
 ### 🌐 My Medium Articles on DSA  
 If you want detailed explanations, step-by-step roadmaps, and Java-focused DSA breakdowns, check out my Medium stories:
 
-👉 **Medium Profile:** https://medium.com/@deepayanth
+<p align="center">👉 Medium Profile: https://medium.com/@deepayanth</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73d115dc-a12f-4847-ba56-b6db5f2e2ec2"
+       alt="App UI Preview"
+       width="70%"
+       style="
+         border: 10px solid #e5e7eb;
+         border-radius: 14px;
+         box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+         transition: transform 0.2s ease;
+       "
+       onmouseover="this.style.transform='scale(1.03)'"
+       onmouseout="this.style.transform='scale(1)'"
+  />
+</p>
 
 I regularly publish deep-dive guides, concept explainers, and structured DSA learning paths there.
 ---
