@@ -1,7 +1,15 @@
 # 🚀 Data Structures and Algorithms (DSA) Repository
 
 Welcome to the **DSA Repository**, where I will be uploading solutions, explanations, and implementations of various Data Structures and Algorithms (DSA) topics.
+---
+Before Proceding ahead check 👇
+### 🌐 My Medium Articles on DSA  
+If you want detailed explanations, step-by-step roadmaps, and Java-focused DSA breakdowns, check out my Medium stories:
 
+👉 **Medium Profile:** https://medium.com/@deepayanth
+
+I regularly publish deep-dive guides, concept explainers, and structured DSA learning paths there.
+---
 ## 📑 Table of Contents
 
 - 📌 Introduction
