@@ -18,7 +18,14 @@ public class MaxFreqSollution {
 
         System.out.println("Frequency Map");
         System.out.println(map.entrySet());
+
         int maxFreq = 0, ansKey = -1;
-        
+        for(var e : map.entrySet()){
+            if(maxFreq < e.getValue()){
+                maxFreq = e.getValue();
+                ansKey = e.getKey();
+            }
+        }
+        System.out.println("Key is : "+ansKey);
     }
 }
