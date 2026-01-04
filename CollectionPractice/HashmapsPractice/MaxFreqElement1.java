@@ -1,9 +1,8 @@
 package CollectionPractice.HashmapsPractice;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
-public class MaxFreqElement {
+public class MaxFreqElement1 {
 
     public static int maxFreqElement(int[] arr){
         Map<Integer, Integer> map = new HashMap<>();
@@ -28,7 +27,7 @@ public class MaxFreqElement {
     }
 
     public static void main(String[] args) {
-        int[] arr = {2,2,1,3,4,2};
+        int[] arr = {1,4,2,5,1,4,4,6,4,4,4};
         System.out.println("The most frequent element is = "+maxFreqElement(arr));
     }
 }
