@@ -49,6 +49,24 @@ public class HM1 {
 
         // Retrieving all the Entries present in the Map;
         System.out.println("ALl the Entry Set : "+map.entrySet());
+
+        // Traversing all the entries in the hashmaps;
+        // Method 1 - of Traversing in HashMap
+        for(String key: map.keySet()){
+            System.out.printf("Age of %s is %d.\n", key, map.get(key));
+        }
+        System.out.println();
+        // Method 2 - of Traversing in HashMap
+        for(Map.Entry<String, Integer> e : map.entrySet()) {
+            System.out.printf("Age of %s is %d.\n", e.getKey(), e.getValue());
+
+        }
+        System.out.println();
+        // Method 3 - of Traversing in HashMap using "var" keyword
+        for(var e : map.entrySet()){
+            System.out.printf("Age of %s is %d.\n", e.getKey(), e.getValue());
+
+        }
     }
 
     public static void main(String[] args) {
