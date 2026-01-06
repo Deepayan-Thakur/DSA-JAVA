@@ -10,7 +10,7 @@ If you want detailed explanations, step-by-step roadmaps, and Java-focused DSA b
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73d115dc-a12f-4847-ba56-b6db5f2e2ec2"
+  <img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/a9d6a541-772e-4612-a1c0-ad3461aaba7c"
        alt="App UI Preview"
        width="70%"
        style="
