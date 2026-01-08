@@ -1,3 +1,5 @@
+package CollectionPractice.HashmapsPractice;
+
 import java.util.*;
 
 public class IsomericStringsProblem {
