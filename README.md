@@ -46,7 +46,10 @@ This repo is ideal for:
 ```text
 DSA-JAVA/
 ├── .idea/
-│   └── IntelliJ project configuration files
+│   ├── .gitignore
+│   ├── misc.xml
+│   ├── modules.xml
+│   └── vcs.xml
 │
 ├── Arrays/
 │   ├── leftRotateArrayElements.java
@@ -55,8 +58,10 @@ DSA-JAVA/
 ├── CollectionPractice/
 │   └── HashmapsPractice/
 │       ├── HM1.java
+│       ├── IsomericStringsProblem.java
 │       ├── MaxFreqElement1.java
-│       └── MaxFreqSollution.java
+│       ├── MaxFreqSollution.java
+│       └── ValidAnagramProblem.java
 │
 ├── Linked List/
 │   ├── LL.java
@@ -99,9 +104,11 @@ DSA-JAVA/
 │
 ├── out/
 │   └── production/
-│       └── Compiled .class files (IDE generated)
+│       └── DSA-JAVA/
+│           └── Compiled `.class` files (IDE generated)
 │
 ├── Arrays in java.docx
+├── .gitignore
 ├── DSA-JAVA.iml
 └── README.md
 ````
