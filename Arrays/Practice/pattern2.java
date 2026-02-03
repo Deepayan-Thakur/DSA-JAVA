@@ -1,4 +1,4 @@
-package .Java.Variables;
+package Practice;
 
 import java.util.Scanner;
 public class pattern2 {

@@ -1,4 +1,4 @@
-package Patterns.HomeWork
+package Patterns.HomeWorkPatterns;
 
 public class numberPyramid {
     public static void main(String[] args) {

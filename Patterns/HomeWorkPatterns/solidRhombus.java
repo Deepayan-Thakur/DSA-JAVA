@@ -1,4 +1,4 @@
-package Patterns.HomeWork
+package Patterns.HomeWorkPatterns;
 
 public class solidRhombus{
     public static void main(String[] args) {
